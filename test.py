@@ -9,6 +9,9 @@ cars.append('ford')
 cars.sort()
 print(cars)
 
+del cars[0]
+
+
 
 
 
