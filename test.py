@@ -11,6 +11,8 @@ print(cars)
 
 del cars[0]
 
+print(cars)
+
 
 
 
